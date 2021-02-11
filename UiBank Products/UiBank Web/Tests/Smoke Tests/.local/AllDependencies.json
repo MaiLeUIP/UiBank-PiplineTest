@@ -337,8 +337,8 @@
     {
       "code": "NU1102",
       "level": "Error",
-      "message": "Unable to find package UiPath.UIAutomation.Activities with version (= 20.2.0-preview)\r\n  - Found 44 version(s) in https://www.myget.org/F/workflow/ [ Nearest version: 20.4.1 ]\r\n  - Found 44 version(s) in https://www.myget.org/F/workflow/ [ Nearest version: 20.4.1 ]\r\n  - Found 44 version(s) in Official [ Nearest version: 20.4.1 ]\r\n  - Found 1 version(s) in C:\\Program Files (x86)\\UiPath\\Studio\\.\\Packages [ Nearest version: 20.10.6 ]\r\n  - Found 1 version(s) in Local [ Nearest version: 20.10.6 ]\r\n  - Found 0 version(s) in C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\\r\n  - Found 0 version(s) in Microsoft Visual Studio Offline Packages\r\n  - Found 0 version(s) in https://api.nuget.org/v3/index.json\r\n  - Found 0 version(s) in nuget.org\r\n  - Found 0 version(s) in https://gallery.uipath.com/api/v2\r\n  - Found 0 version(s) in Connect",
-      "libraryId": "UiPath.UIAutomation.Activities",
+      "message": "Unable to find package UiPath.System.Activities with version (= 20.3.0-beta.798912)\r\n  - Found 32 version(s) in https://www.myget.org/F/workflow/ [ Nearest version: 20.3.0-preview ]\r\n  - Found 32 version(s) in Official [ Nearest version: 20.3.0-preview ]\r\n  - Found 1 version(s) in C:\\Program Files (x86)\\UiPath\\Studio\\.\\Packages [ Nearest version: 20.10.1 ]\r\n  - Found 1 version(s) in Local [ Nearest version: 20.10.1 ]\r\n  - Found 0 version(s) in C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\\r\n  - Found 0 version(s) in Microsoft Visual Studio Offline Packages\r\n  - Found 0 version(s) in https://api.nuget.org/v3/index.json\r\n  - Found 0 version(s) in nuget.org\r\n  - Found 0 version(s) in https://gallery.uipath.com/api/v2\r\n  - Found 0 version(s) in Connect\r\n  - Found 0 version(s) in https://orch-testingsol-web0-we-webapp.azurewebsites.net/nuget/v3/72b1d3c0-b048-4ee2-832b-85626342f5d0/index.json",
+      "libraryId": "UiPath.System.Activities",
       "targetGraphs": [
         ".NETFramework,Version=v4.6.1"
       ]
@@ -346,8 +346,8 @@
     {
       "code": "NU1102",
       "level": "Error",
-      "message": "Unable to find package UiPath.System.Activities with version (= 20.3.0-beta.798912)\r\n  - Found 32 version(s) in https://www.myget.org/F/workflow/ [ Nearest version: 20.3.0-preview ]\r\n  - Found 32 version(s) in https://www.myget.org/F/workflow/ [ Nearest version: 20.3.0-preview ]\r\n  - Found 32 version(s) in Official [ Nearest version: 20.3.0-preview ]\r\n  - Found 1 version(s) in C:\\Program Files (x86)\\UiPath\\Studio\\.\\Packages [ Nearest version: 20.10.1 ]\r\n  - Found 1 version(s) in Local [ Nearest version: 20.10.1 ]\r\n  - Found 0 version(s) in C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\\r\n  - Found 0 version(s) in Microsoft Visual Studio Offline Packages\r\n  - Found 0 version(s) in https://api.nuget.org/v3/index.json\r\n  - Found 0 version(s) in nuget.org\r\n  - Found 0 version(s) in https://gallery.uipath.com/api/v2\r\n  - Found 0 version(s) in Connect",
-      "libraryId": "UiPath.System.Activities",
+      "message": "Unable to find package UiPath.UIAutomation.Activities with version (= 20.2.0-preview)\r\n  - Found 44 version(s) in https://www.myget.org/F/workflow/ [ Nearest version: 20.4.1 ]\r\n  - Found 44 version(s) in Official [ Nearest version: 20.4.1 ]\r\n  - Found 1 version(s) in C:\\Program Files (x86)\\UiPath\\Studio\\.\\Packages [ Nearest version: 20.10.6 ]\r\n  - Found 1 version(s) in Local [ Nearest version: 20.10.6 ]\r\n  - Found 0 version(s) in C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\\r\n  - Found 0 version(s) in Microsoft Visual Studio Offline Packages\r\n  - Found 0 version(s) in https://api.nuget.org/v3/index.json\r\n  - Found 0 version(s) in nuget.org\r\n  - Found 0 version(s) in https://gallery.uipath.com/api/v2\r\n  - Found 0 version(s) in Connect\r\n  - Found 0 version(s) in https://orch-testingsol-web0-we-webapp.azurewebsites.net/nuget/v3/72b1d3c0-b048-4ee2-832b-85626342f5d0/index.json",
+      "libraryId": "UiPath.UIAutomation.Activities",
       "targetGraphs": [
         ".NETFramework,Version=v4.6.1"
       ]
