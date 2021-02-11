@@ -1,17 +1,17 @@
 {
-  "name": "CICD Mai Le",
+  "name": "CICD_MaiLe",
   "description": "A demo project to show our CI/CD integration capabilities.",
   "main": "Create Account.xaml",
   "dependencies": {
-    "UiPath.System.Activities": "[20.10.3]",
-    "UiPath.Testing.Activities": "[1.2.4]",
-    "UiPath.UIAutomation.Activities": "[20.10.8]"
+    "UiPath.System.Activities": "[20.3.0-beta.798912]",
+    "UiPath.Testing.Activities": "[1.0.0-beta.837692]",
+    "UiPath.UIAutomation.Activities": "[20.2.0-preview]"
   },
   "webServices": [],
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "20.3.0.187",
-  "projectVersion": "6.2.5",
+  "projectVersion": "9.0.2",
   "runtimeOptions": {
     "autoDispose": false,
     "isPausable": true,
@@ -38,57 +38,32 @@
     "fileInfoCollection": [
       {
         "editingStatus": "Publishable",
-        "testCaseId": "830a64d2-ae68-40fd-8b2f-34e5ab45ae26",
-        "fileName": "Create Account.xaml"
+        "testCaseId": "87de9729-e51b-4316-8452-0234ed5daf38",
+        "fileName": "TestCase2.xaml"
       },
       {
         "editingStatus": "Publishable",
-        "testCaseId": "a70fcc2f-f3bf-43b6-b6f1-cbabaef634f7",
-        "fileName": "Create User.xaml"
-      },
-      {
-        "editingStatus": "Publishable",
-        "testCaseId": "860e9b77-9ba6-452e-81e9-8688a7ca008a",
-        "fileName": "Modify User Profile.xaml"
-      },
-      {
-        "editingStatus": "Publishable",
-        "testCaseId": "98e43e63-b9a7-4378-a041-594f62cf26c2",
-        "fileName": "Perform Transaction.xaml"
-      },
-      {
-        "editingStatus": "Publishable",
-        "testCaseId": "38b4cdb8-ca0b-40c9-86ec-c1adda36bf7e",
-        "fileName": "Transfer Funds.xaml"
-      },
-      {
-        "editingStatus": "Publishable",
-        "testCaseId": "76cd7eaa-4617-4a58-8408-4a54734007ea",
-        "fileName": "Reset Password.xaml"
-      },
-      {
-        "editingStatus": "Publishable",
-        "testCaseId": "89a87527-bfc5-41e2-a39f-ec30a9cfeb8a",
-        "fileName": "Create Loan.xaml"
-      },
-      {
-        "editingStatus": "Publishable",
-        "testCaseId": "fce756c5-fe90-42f1-938f-550ef371d517",
-        "fileName": "Register Administrator.xaml"
-      },
-      {
-        "editingStatus": "Publishable",
-        "testCaseId": "12cc2ca4-cb54-4a1d-a67e-49d3c61d188f",
-        "fileName": "Delete Account.xaml"
+        "testCaseId": "27894db6-2ba8-499f-a8f5-5f5dbc18d40c",
+        "fileName": "TestCase1.xaml"
       }
     ],
     "modernBehavior": false
   },
-  "arguments": {
-    "input": [],
-    "output": []
-  },
   "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "TestCase2.xaml",
+      "uniqueId": "87de9729-e51b-4316-8452-0234ed5daf38",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "TestCase1.xaml",
+      "uniqueId": "27894db6-2ba8-499f-a8f5-5f5dbc18d40c",
+      "input": [],
+      "output": []
+    }
+  ],
   "isTemplate": false,
   "templateProjectData": {},
   "publishData": {}
