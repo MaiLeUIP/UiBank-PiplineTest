@@ -1,1 +1,1 @@
-Here's some good code!
+Here's some cool code!
